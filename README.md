@@ -1,11 +1,11 @@
-# Family Ledger — Privacy Policy & Legal Documents
+# Loonie (Family Ledger) — Privacy Policy & Legal Documents
 
-This repository hosts the official, public-facing **Privacy Policy** and **Terms of Service** for the **Family Ledger (Loonie)** Android application (`com.aistudio.familyledger.jkwqz`).
+This repository hosts the official, public-facing **Privacy Policy** and **Terms of Service** for the **Loonie (Family Ledger)** Android application (`com.aistudio.familyledger.jkwqz`).
 
 ## Live Website
 
 Once published on GitHub Pages, the site is live at:
-👉 **`https://<your-username>.github.io/family-ledger-privacy/`**
+👉 **`https://macdeek24.github.io/loonie-privacy/`**
 
 ## Files
 
@@ -16,15 +16,13 @@ Once published on GitHub Pages, the site is live at:
 
 1. **Create a new repository on GitHub:**
    * Go to [github.com/new](https://github.com/new)
-   * Repository name: `family-ledger-privacy`
+   * Repository name: `loonie-privacy`
    * Select: **Public**
+   * Leave *"Add a README"* **unchecked**
 2. **Push this folder:**
    ```bash
-   cd /Users/deekmacwan/Application/family-ledger-privacy
-   git init -b main
-   git add .
-   git commit -m "docs: add Google Play compliant privacy policy and terms"
-   git remote add origin git@github.com:<your-username>/family-ledger-privacy.git
+   cd /Users/deekmacwan/Application/loonie-privacy
+   git remote add origin git@github.com:MacDeek24/loonie-privacy.git
    git push -u origin main
    ```
 3. **Turn on GitHub Pages:**
@@ -32,4 +30,4 @@ Once published on GitHub Pages, the site is live at:
    * Under **Build and deployment → Branch**, choose `main` and `/ (root)`.
    * Click **Save**.
 4. **Copy the link to Google Play Console:**
-   * Paste `https://<your-username>.github.io/family-ledger-privacy/` into Play Console under **Policy and programs → App content → Privacy policy**.
+   * Paste `https://macdeek24.github.io/loonie-privacy/` into Play Console under **Policy and programs → App content → Privacy policy**.
